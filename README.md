@@ -96,7 +96,7 @@ saas-customer-churn-retention-analysis/
 ├── README.md
 ├── customer_churn_analysis.sql
 └── dataset/
-    └── (Dataset files, if permitted to share)
+    └── (Dataset files)
 ```
 
 ## 📚 Key Learnings
@@ -111,6 +111,8 @@ saas-customer-churn-retention-analysis/
 ## 👩‍💻 Project Focus
 
 This project demonstrates how SQL can be used not only to retrieve and aggregate data but also to investigate business problems and support data-driven decision-making.
+
+**Data Source: Analyst Builder**
 
 **Domain:** SaaS | Customer Analytics | Business Analytics
 
